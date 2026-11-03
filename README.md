@@ -21,6 +21,7 @@
 
 # Requirements
 - C / C++: gcc / g++ and GMP + MPFR (and libgmpxx for C++)
+- https://www.mpfr.org/mpfr-current/ needs build and install, (not too hard or time consuming, no sudo needed).
 - Rust: cargo + rust toolchain
 - Python: Python 3.x; optional gmpy2 for the gmpy2-backed script
 - Build tools (make or manual compile as shown below)
